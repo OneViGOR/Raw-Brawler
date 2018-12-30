@@ -1,0 +1,1463 @@
+﻿Log file open, 12/30/18 21:20:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RawBrawler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.252859
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.063s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU:        Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 670
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.30-21.20.58:127][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-21.20.58:127][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.30-21.20.58:141][  0]LogHAL: Display: Platform has ~ 16 GB [17137041408 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.30-21.20.58:141][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.30-21.20.58:141][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.30-21.20.58:141][  0]LogInit: Computer: ONEVIGOR-PC
+[2018.12.30-21.20.58:141][  0]LogInit: User: OneViGOR
+[2018.12.30-21.20.58:141][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.30-21.20.58:141][  0]LogInit: High frequency timer resolution =3.421367 MHz
+[2018.12.30-21.20.58:141][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.30-21.20.58:141][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.30-21.20.58:141][  0]LogMemory: Process Physical Memory: 101.80 MB used, 101.80 MB peak
+[2018.12.30-21.20.58:141][  0]LogMemory: Process Virtual Memory: 94.44 MB used, 94.44 MB peak
+[2018.12.30-21.20.58:141][  0]LogMemory: Physical Memory: 7882.21 MB used,  8460.94 MB free, 16343.16 MB total
+[2018.12.30-21.20.58:141][  0]LogMemory: Virtual Memory: 494.23 MB used,  8460.94 MB free, 8388608.00 MB total
+[2018.12.30-21.20.58:160][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.30-21.20.58:160][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.30-21.20.58:160][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.30-21.20.58:530][  0]LogStreaming: Display: Took  0.370s to InitEngineTextLocalization.
+[2018.12.30-21.20.58:531][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.12.30-21.20.58:531][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.12.30-21.20.58:531][  0]LogInit: Setting process to DPI aware
+[2018.12.30-21.20.58:555][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.30-21.20.58:555][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.30-21.20.58:733][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.30-21.20.58:733][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.30-21.20.58:757][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670' (Feature Level 11_0)
+[2018.12.30-21.20.58:757][  0]LogD3D11RHI:       1979/0/7915 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.30-21.20.58:757][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.30-21.20.58:762][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.30-21.20.58:762][  0]LogD3D11RHI:     GPU DeviceId: 0x1189 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.30-21.20.58:762][  0]LogWindows: EnumDisplayDevices:
+[2018.12.30-21.20.58:762][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670' (P:1 D:1)
+[2018.12.30-21.20.58:762][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2018.12.30-21.20.58:763][  0]LogWindows:    2. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2018.12.30-21.20.58:763][  0]LogWindows:    3. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2018.12.30-21.20.58:763][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.12.30-21.20.58:763][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.12.30-21.20.58:763][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.12.30-21.20.58:763][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.30-21.20.58:763][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670
+[2018.12.30-21.20.58:763][  0]LogD3D11RHI:   Driver Version: 391.01 (internal:23.21.13.9101, unified:391.01)
+[2018.12.30-21.20.58:763][  0]LogD3D11RHI:      Driver Date: 2-23-2018
+[2018.12.30-21.20.58:763][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2018.12.30-21.20.58:776][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.30-21.20.58:792][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.30-21.20.58:834][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../GitHub/Raw-Brawler/RawBrawler/Intermediate/Shaders/WorkingDirectory/6872/).
+[2018.12.30-21.20.58:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/OneViGOR/AppData/Local/Temp/UnrealShaderWorkingDir/69F206FD4A7019A6FD1780A8D27059E8/'.
+[2018.12.30-21.20.59:082][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.30-21.20.59:094][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.30-21.20.59:109][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.30-21.20.59:124][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.30-21.20.59:139][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.30-21.20.59:153][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.30-21.20.59:168][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.30-21.20.59:182][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.30-21.20.59:187][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.20.59:272][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.30-21.20.59:333][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-21.20.59:333][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-21.20.59:358][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-21.20.59:358][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-21.20.59:371][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.30-21.20.59:384][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.30-21.20.59:397][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.30-21.20.59:411][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.30-21.20.59:420][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.30-21.20.59:420][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.30-21.20.59:460][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.30-21.20.59:460][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.30-21.20.59:460][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.30-21.21.00:238][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.30-21.21.00:299][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/OneViGOR/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.30-21.21.00:300][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/OneViGOR/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.30-21.21.00:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/Raw-Brawler/RawBrawler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.30-21.21.00:300][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.30-21.21.00:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/Raw-Brawler/RawBrawler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.30-21.21.00:300][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.30-21.21.00:313][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.30-21.21.00:324][  0]LogDerivedDataCache: Using Local data cache path C:/Users/OneViGOR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.30-21.21.00:324][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.30-21.21.00:324][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.30-21.21.00:344][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.30-21.21.00:345][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.30-21.21.00:345][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.30-21.21.00:416][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2018.12.30-21.21.00:803][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-21.21.00:938][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.30-21.21.00:940][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.30-21.21.00:940][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.30-21.21.00:940][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.30-21.21.00:940][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.30-21.21.00:959][  0]LogNetVersion: RawBrawler 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2865704746)
+[2018.12.30-21.21.01:457][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.084021 seconds
+[2018.12.30-21.21.01:463][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.30-21.21.01:463][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.30-21.21.01:463][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.30-21.21.02:268][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.30-21.21.02:279][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.30-21.21.02:411][  0]SourceControl: Source control is disabled
+[2018.12.30-21.21.02:411][  0]SourceControl: Source control is disabled
+[2018.12.30-21.21.02:412][  0]SourceControl: Source control is disabled
+[2018.12.30-21.21.02:412][  0]SourceControl: Source control is disabled
+[2018.12.30-21.21.02:568][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.30-21.21.02:631][  0]LogOcInput: OculusInput pre-init called
+[2018.12.30-21.21.02:690][  0]LogEngine: Initializing Engine...
+[2018.12.30-21.21.02:692][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.30-21.21.02:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-21.21.02:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-21.21.02:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-21.21.02:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-21.21.02:947][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.30-21.21.02:959][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.30-21.21.02:979][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.21.02:989][  0]LogInit: FAudioDevice initialized.
+[2018.12.30-21.21.02:989][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.30-21.21.03:067][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/OneViGOR/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.30-21.21.03:075][  0]LogInit: Texture streaming: Enabled
+[2018.12.30-21.21.03:090][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.30-21.21.03:107][  0]LogInit: Transaction tracking system initialized
+[2018.12.30-21.21.03:126][  0]BlueprintLog: New page: Editor Load
+[2018.12.30-21.21.03:197][  0]LocalizationService: Localization service is disabled
+[2018.12.30-21.21.03:510][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.30-21.21.03:510][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.30-21.21.03:510][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.30-21.21.03:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-21.21.03:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-21.21.03:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-21.21.03:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-21.21.03:618][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Raw-Brawler/RawBrawler/Content/' took 0.02s
+[2018.12.30-21.21.03:618][  0]SourceControl: Source control is disabled
+[2018.12.30-21.21.03:619][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.30-21.21.03:619][  0]LightingResults: New page: Lighting Build
+[2018.12.30-21.21.03:621][  0]MapCheck: New page: Map Check
+[2018.12.30-21.21.03:621][  0]LightingResults: New page: Lighting Build
+[2018.12.30-21.21.04:188][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.21.04:221][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.30-21.21.04:245][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.30-21.21.04:303][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.107ms to complete.
+[2018.12.30-21.21.04:303][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.685
+[2018.12.30-21.21.04:390][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.21.04:399][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.21.04:406][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.21.04:414][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.21.04:428][  0]LogCollectionManager: Loaded 0 collections in 0.001035 seconds
+[2018.12.30-21.21.04:465][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Raw-Brawler/RawBrawler/Saved/Collections/' took 0.01s
+[2018.12.30-21.21.04:466][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Raw-Brawler/RawBrawler/Content/Developers/OneViGOR/Collections/' took 0.01s
+[2018.12.30-21.21.04:466][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Raw-Brawler/RawBrawler/Content/Collections/' took 0.01s
+[2018.12.30-21.21.04:466][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.30-21.21.04:480][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2574 classes and 606 folders.
+[2018.12.30-21.21.04:488][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.30-21.21.04:521][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.30-21.21.04:525][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.30-21.21.04:595][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.30-21.21.04:598][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.30-21.21.04:604][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.30-21.21.04:719][  0]LogRenderer: Reallocating scene render targets to support 2020x1040 Format 10 NumSamples 1 (Frame:1).
+[2018.12.30-21.21.04:975][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.30-21.21.04:975][  0]LogLoad: (Engine Initialization) Total time: 8.05 seconds
+[2018.12.30-21.21.04:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.30-21.21.05:014][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.30-21.21.05:294][  3]LogAssetRegistry: Asset discovery search completed in 4.8985 seconds
+[2018.12.30-21.21.05:299][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.30-21.21.05:299][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000134 seconds (updated 0 objects)
+[2018.12.30-21.21.10:827][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.21.15:772][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.21.18:460][612]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.30-21.21.18:467][612]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.12.30-21.21.18:630][612]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.30-21.21.18:860][612]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.30-21.21.18:863][612]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.30-21.21.19:413][612]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.12.30-21.21.20:605][612]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.30-21.21.21:191][612]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.30-21.21.21:264][612]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.30-21.21.21:378][612]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.30-21.21.35:505][236]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.30-21.21.53:640][316]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.12.30-21.21.58:874][316]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.12.30-21.22.04:630][532]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP
+[2018.12.30-21.22.04:664][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.30-21.22.05:078][532]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.30-21.22.05:446][532]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.30-21.22.35:581][143]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.22.36:234][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.22.36:264][162]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBPB5F0C1C3497745021AEB5693E6FCB935.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.23.44:371][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkForward.Brawler_Anim_WalkForward
+[2018.12.30-21.23.44:371][385]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkForward.Brawler_Anim_WalkForward) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.30-21.23.44:406][385]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkForward.Brawler_Anim_WalkForward
+[2018.12.30-21.23.44:431][385]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.30-21.23.44:461][385]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.30-21.23.44:942][385]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.30-21.23.47:675][468]LogSlate: Window 'Brawler_Anim_WalkForward' being destroyed
+[2018.12.30-21.23.47:708][468]LogSlate: Window 'Brawler_Anim_WalkForward' being destroyed
+[2018.12.30-21.23.48:900][492]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkForward1.Brawler_Anim_WalkForward1
+[2018.12.30-21.23.48:930][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.30-21.23.48:964][492]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.30-21.23.49:397][492]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.30-21.23.59:286][836]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP
+[2018.12.30-21.23.59:321][836]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.30-21.23.59:723][836]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.30-21.24.00:138][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.30-21.24.10:050][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.24.10:111][390]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBP9BD2A5BA4B4A4384962915B9D1D2709F.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.24.10:504][408]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.24.10:526][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Play ThirdPersonJump_Start  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.12.30-21.24.10:526][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Play ThirdPersonJump_Loop  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.12.30-21.24.10:527][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Play ThirdPerson_Jump  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.12.30-21.24.10:528][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] ICE: Player node  Play ThirdPersonJump_Start  was not processed prior to handling a transition getter  ThirdPersonJump_Start Asset  that used it
+[2018.12.30-21.24.10:528][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] ICE: Player node  Play ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump Asset  that used it
+[2018.12.30-21.24.10:528][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_34 while searching for node links - likely due to the node having outstanding errors.
+[2018.12.30-21.24.10:528][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2018.12.30-21.24.10:528][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_46 while searching for node links - likely due to the node having outstanding errors.
+[2018.12.30-21.24.10:530][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.24.10:530][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2018.12.30-21.24.10:530][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2018.12.30-21.24.10:530][408]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.24.10:722][408]LogBlueprint: Warning: [Compiler Brawler_AnimBP] [0193.80] Compile of Brawler_AnimBP failed. 12 Fatal Issue(s) 0 Warning(s) [in 217 ms] (/Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP)
+[2018.12.30-21.24.51:983][509]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.24.52:003][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Play ThirdPersonJump_Loop  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.12.30-21.24.52:004][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Play ThirdPerson_Jump  references sequence that uses different skeleton  UE4_Mannequin_Skeleton
+[2018.12.30-21.24.52:005][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] ICE: Player node  Play ThirdPersonJump_Start  was not processed prior to handling a transition getter  ThirdPersonJump_Start Asset  that used it
+[2018.12.30-21.24.52:005][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] ICE: Player node  Play ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump Asset  that used it
+[2018.12.30-21.24.52:005][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2018.12.30-21.24.52:006][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_46 while searching for node links - likely due to the node having outstanding errors.
+[2018.12.30-21.24.52:007][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.24.52:007][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2018.12.30-21.24.52:007][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2018.12.30-21.24.52:007][509]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.24.52:180][509]LogBlueprint: Warning: [Compiler Brawler_AnimBP] [0235.26] Compile of Brawler_AnimBP failed. 10 Fatal Issue(s) 0 Warning(s) [in 196 ms] (/Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP)
+[2018.12.30-21.25.13:158][507]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.25.13:182][507]LogBlueprint: Error: [Compiler Brawler_AnimBP] ICE: Player node  Play ThirdPersonJump_Start  was not processed prior to handling a transition getter  ThirdPersonJump_Start Asset  that used it
+[2018.12.30-21.25.13:183][507]LogBlueprint: Error: [Compiler Brawler_AnimBP] ICE: Player node  Play ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump Asset  that used it
+[2018.12.30-21.25.13:184][507]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.25.13:184][507]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2018.12.30-21.25.13:184][507]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2018.12.30-21.25.13:185][507]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.25.13:365][507]LogBlueprint: Warning: [Compiler Brawler_AnimBP] [0256.44] Compile of Brawler_AnimBP failed. 6 Fatal Issue(s) 0 Warning(s) [in 206 ms] (/Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP)
+[2018.12.30-21.25.14:752][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.25.14:811][559]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBPDB7004BA47A806D07DBC4A961A7F5623.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.26.29:994][162]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.26.30:017][162]LogBlueprint: Error: [Compiler Brawler_AnimBP] ICE: Player node  Play ThirdPerson_Jump  was not processed prior to handling a transition getter  ThirdPerson_Jump Asset  that used it
+[2018.12.30-21.26.30:018][162]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.26.30:019][162]LogBlueprint: Error: [Compiler Brawler_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPerson_Jump Asset
+[2018.12.30-21.26.30:189][162]LogBlueprint: Warning: [Compiler Brawler_AnimBP] [0333.27] Compile of Brawler_AnimBP failed. 3 Fatal Issue(s) 0 Warning(s) [in 195 ms] (/Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP)
+[2018.12.30-21.26.30:664][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.26.30:725][180]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBP12BC4F314A1AC28AEC8A80BD6813A452.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.26.48:555][ 45]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.26.49:356][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.26.49:422][ 68]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBP2FD40B714C6664ED1510079B294C5B16.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.26.52:104][194]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.26.52:116][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.26.52:116][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.26.52:127][194]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:26:52)
+[2018.12.30-21.26.52:127][194]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.26.52:150][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022403s)
+[2018.12.30-21.26.52:150][194]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.26.52:151][194]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2018.12.30-21.26.52:151][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023453s)
+[2018.12.30-21.26.52:187][194]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.26.52:197][194]LogInit: FAudioDevice initialized.
+[2018.12.30-21.26.52:275][194]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.26.52:291][194]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.26.52
+[2018.12.30-21.26.52:294][194]LogWorld: Bringing up level for play took: 0.018881
+[2018.12.30-21.26.52:314][194]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.30-21.26.52:316][194]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.982
+[2018.12.30-21.26.52:316][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.26.57:489][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.26.57:490][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.26.57:534][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.26.57:534][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.26.57:560][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.26.57:616][495]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.30-21.26.59:766][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.27.01:408][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.12.30-21.27.31:331][820]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.12.30-21.27.31:331][820]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.12.30-21.27.32:269][848]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.30-21.27.35:860][997]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.30-21.27.36:663][ 14]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/ThirdPersonCharacter1C9AE9BB4C0BC367839AE5ADD6E684AA.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.30-21.27.36:970][ 27]LogRenderer: Reallocating scene render targets to support 2024x1216 Format 10 NumSamples 1 (Frame:1).
+[2018.12.30-21.27.40:128][147]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.27.40:144][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.27.40:144][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.27.40:144][147]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:27:40)
+[2018.12.30-21.27.40:144][147]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.27.40:158][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014052s)
+[2018.12.30-21.27.40:159][147]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.27.40:159][147]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.12.30-21.27.40:159][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015088s)
+[2018.12.30-21.27.40:196][147]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.27.40:205][147]LogInit: FAudioDevice initialized.
+[2018.12.30-21.27.40:232][147]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.27.40:247][147]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.27.40
+[2018.12.30-21.27.40:249][147]LogWorld: Bringing up level for play took: 0.017062
+[2018.12.30-21.27.40:263][147]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.928
+[2018.12.30-21.27.40:263][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.27.45:297][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.27.45:297][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.27.45:340][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.27.45:341][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.27.45:376][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.27.45:431][434]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.30-21.27.48:943][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.28.32:499][325]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.12.30-21.28.43:657][937]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/PlayerCharacter/Animations/Brawler_WalkBlendspace.Brawler_WalkBlendspace
+[2018.12.30-21.28.54:467][309]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2018.12.30-21.28.54:512][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.30-21.28.54:537][309]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.30-21.28.55:007][309]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.30-21.29.28:181][356]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkRight.Brawler_Anim_WalkRight
+[2018.12.30-21.29.28:181][356]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkRight.Brawler_Anim_WalkRight) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.30-21.29.29:904][409]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkLeft.Brawler_Anim_WalkLeft
+[2018.12.30-21.29.29:904][409]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacter/Animations/Brawler_Anim_WalkLeft.Brawler_Anim_WalkLeft) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.30-21.31.20:412][942]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_WalkBlendspace9509FC374C3726A1E07F5CB97D79E86D.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_WalkBlendspace.uasset'
+[2018.12.30-21.31.34:618][457]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.31.35:334][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.31.35:416][473]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBP12D6CAC7460D947E51AEF7B14EE230AC.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.31.37:326][560]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.31.37:340][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.31.37:341][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.31.37:341][560]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:31:37)
+[2018.12.30-21.31.37:341][560]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.31.37:358][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016943s)
+[2018.12.30-21.31.37:358][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.31.37:359][560]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.12.30-21.31.37:359][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017929s)
+[2018.12.30-21.31.37:395][560]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.31.37:405][560]LogInit: FAudioDevice initialized.
+[2018.12.30-21.31.37:432][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.31.37:446][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.31.37
+[2018.12.30-21.31.37:449][560]LogWorld: Bringing up level for play took: 0.016759
+[2018.12.30-21.31.37:463][560]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.127
+[2018.12.30-21.31.37:464][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.31.50:445][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.31.50:445][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.31.50:490][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.31.50:490][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.31.50:519][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.31.50:577][304]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.30-21.31.52:344][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.31.53:668][366]LogSlate: Window 'Save Content' being destroyed
+[2018.12.30-21.31.53:702][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2018.12.30-21.31.53:768][366]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/ThirdPerson_AnimBP002C32A9491A46253279EA9672F1AD5A.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.12.30-21.32.12:744][ 40]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.32.12:792][ 40]LogBlueprintUserMessages: [Brawler_AnimBP_C_2] 0.0
+[2018.12.30-21.32.12:794][ 40]LogBlueprintUserMessages: [Brawler_AnimBP_C_3] 0.0
+[2018.12.30-21.32.13:435][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.32.13:502][ 55]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBP6D0C2926407347CF3FEA5A9439A5F983.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.32.15:695][147]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.32.15:714][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.32.15:714][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.32.15:714][147]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:32:15)
+[2018.12.30-21.32.15:714][147]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.32.15:731][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016298s)
+[2018.12.30-21.32.15:731][147]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.32.15:731][147]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.12.30-21.32.15:732][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017309s)
+[2018.12.30-21.32.15:767][147]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.32.15:775][147]LogInit: FAudioDevice initialized.
+[2018.12.30-21.32.15:805][147]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.32.15:820][147]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.32.15
+[2018.12.30-21.32.15:823][147]LogWorld: Bringing up level for play took: 0.017463
+[2018.12.30-21.32.15:835][147]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:836][147]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.499
+[2018.12.30-21.32.15:836][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.32.15:837][147]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:892][148]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:904][149]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:924][150]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:943][151]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:960][152]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:976][153]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.15:993][154]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:009][155]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:026][156]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:043][157]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:060][158]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:077][159]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:093][160]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:110][161]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:143][162]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:153][163]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:162][164]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:176][165]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:194][166]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:211][167]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:228][168]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:244][169]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:262][170]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:277][171]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:295][172]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:311][173]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:328][174]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:347][175]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:363][176]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:379][177]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.16:396][178]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 34.392689
+[2018.12.30-21.32.16:414][179]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 71.443069
+[2018.12.30-21.32.16:431][180]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 105.129791
+[2018.12.30-21.32.16:449][181]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 143.178497
+[2018.12.30-21.32.16:466][182]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 177.462021
+[2018.12.30-21.32.16:485][183]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 215.439316
+[2018.12.30-21.32.16:503][184]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 252.74411
+[2018.12.30-21.32.16:519][185]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 286.355591
+[2018.12.30-21.32.16:535][186]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000977
+[2018.12.30-21.32.16:554][187]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001465
+[2018.12.30-21.32.16:571][188]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998322
+[2018.12.30-21.32.16:590][189]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999359
+[2018.12.30-21.32.16:609][190]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000336
+[2018.12.30-21.32.16:627][191]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999237
+[2018.12.30-21.32.16:645][192]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998566
+[2018.12.30-21.32.16:662][193]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999023
+[2018.12.30-21.32.16:678][194]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999268
+[2018.12.30-21.32.16:695][195]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00119
+[2018.12.30-21.32.16:713][196]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.16:731][197]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.16:749][198]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.16:765][199]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000061
+[2018.12.30-21.32.16:784][200]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.0
+[2018.12.30-21.32.16:802][201]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999969
+[2018.12.30-21.32.16:820][202]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.16:837][203]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000031
+[2018.12.30-21.32.16:854][204]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999695
+[2018.12.30-21.32.16:872][205]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999603
+[2018.12.30-21.32.16:890][206]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999237
+[2018.12.30-21.32.16:908][207]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.16:925][208]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.16:944][209]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999969
+[2018.12.30-21.32.16:963][210]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999298
+[2018.12.30-21.32.16:979][211]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.16:997][212]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999878
+[2018.12.30-21.32.17:014][213]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999603
+[2018.12.30-21.32.17:032][214]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000641
+[2018.12.30-21.32.17:051][215]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.17:067][216]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.17:083][217]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000397
+[2018.12.30-21.32.17:103][218]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.17:118][219]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000885
+[2018.12.30-21.32.17:136][220]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999329
+[2018.12.30-21.32.17:154][221]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.17:172][222]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999786
+[2018.12.30-21.32.17:191][223]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999359
+[2018.12.30-21.32.17:207][224]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999176
+[2018.12.30-21.32.17:225][225]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.17:242][226]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.17:261][227]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999664
+[2018.12.30-21.32.17:277][228]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999756
+[2018.12.30-21.32.17:295][229]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.17:312][230]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999573
+[2018.12.30-21.32.17:330][231]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999115
+[2018.12.30-21.32.17:347][232]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999298
+[2018.12.30-21.32.17:365][233]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000488
+[2018.12.30-21.32.17:385][234]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.17:403][235]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000641
+[2018.12.30-21.32.17:421][236]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.17:437][237]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000153
+[2018.12.30-21.32.17:455][238]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000397
+[2018.12.30-21.32.17:472][239]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000305
+[2018.12.30-21.32.17:490][240]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000305
+[2018.12.30-21.32.17:506][241]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000641
+[2018.12.30-21.32.17:524][242]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.17:541][243]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000824
+[2018.12.30-21.32.17:559][244]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.17:576][245]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999786
+[2018.12.30-21.32.17:593][246]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998871
+[2018.12.30-21.32.17:611][247]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999329
+[2018.12.30-21.32.17:628][248]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000153
+[2018.12.30-21.32.17:646][249]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000488
+[2018.12.30-21.32.17:662][250]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.17:681][251]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.0
+[2018.12.30-21.32.17:698][252]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.17:715][253]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.17:730][254]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999207
+[2018.12.30-21.32.17:749][255]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000854
+[2018.12.30-21.32.17:764][256]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99942
+[2018.12.30-21.32.17:783][257]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.17:802][258]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000031
+[2018.12.30-21.32.17:816][259]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.17:835][260]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000061
+[2018.12.30-21.32.17:853][261]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.17:870][262]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.17:886][263]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999756
+[2018.12.30-21.32.17:905][264]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999939
+[2018.12.30-21.32.17:921][265]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.17:939][266]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000122
+[2018.12.30-21.32.17:955][267]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000458
+[2018.12.30-21.32.17:973][268]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999451
+[2018.12.30-21.32.17:990][269]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999481
+[2018.12.30-21.32.18:009][270]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999969
+[2018.12.30-21.32.18:025][271]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00058
+[2018.12.30-21.32.18:043][272]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00058
+[2018.12.30-21.32.18:061][273]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000488
+[2018.12.30-21.32.18:077][274]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.18:095][275]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.18:113][276]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000732
+[2018.12.30-21.32.18:130][277]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999268
+[2018.12.30-21.32.18:147][278]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.18:165][279]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000336
+[2018.12.30-21.32.18:181][280]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000336
+[2018.12.30-21.32.18:200][281]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.18:215][282]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.18:234][283]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.18:250][284]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000336
+[2018.12.30-21.32.18:268][285]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.18:285][286]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999603
+[2018.12.30-21.32.18:304][287]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.18:322][288]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999634
+[2018.12.30-21.32.18:338][289]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000702
+[2018.12.30-21.32.18:356][290]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000183
+[2018.12.30-21.32.18:373][291]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.18:391][292]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999481
+[2018.12.30-21.32.18:407][293]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.18:424][294]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999176
+[2018.12.30-21.32.18:441][295]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000336
+[2018.12.30-21.32.18:459][296]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.0
+[2018.12.30-21.32.18:477][297]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999695
+[2018.12.30-21.32.18:493][298]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.18:512][299]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999481
+[2018.12.30-21.32.18:528][300]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001068
+[2018.12.30-21.32.18:546][301]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999695
+[2018.12.30-21.32.18:564][302]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999786
+[2018.12.30-21.32.18:581][303]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000824
+[2018.12.30-21.32.18:598][304]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.18:615][305]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999664
+[2018.12.30-21.32.18:631][306]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.18:649][307]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999054
+[2018.12.30-21.32.18:665][308]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.18:685][309]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.18:702][310]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999329
+[2018.12.30-21.32.18:719][311]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999634
+[2018.12.30-21.32.18:737][312]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.18:754][313]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.18:772][314]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.18:788][315]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999023
+[2018.12.30-21.32.18:806][316]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999573
+[2018.12.30-21.32.18:823][317]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000397
+[2018.12.30-21.32.18:841][318]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000153
+[2018.12.30-21.32.18:857][319]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.18:875][320]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000153
+[2018.12.30-21.32.18:891][321]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.18:910][322]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.18:926][323]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999573
+[2018.12.30-21.32.18:945][324]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000153
+[2018.12.30-21.32.18:962][325]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999756
+[2018.12.30-21.32.18:979][326]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999268
+[2018.12.30-21.32.18:997][327]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.19:013][328]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999084
+[2018.12.30-21.32.19:031][329]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999512
+[2018.12.30-21.32.19:047][330]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999023
+[2018.12.30-21.32.19:065][331]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000275
+[2018.12.30-21.32.19:081][332]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998413
+[2018.12.30-21.32.19:099][333]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.19:115][334]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000458
+[2018.12.30-21.32.19:133][335]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.19:149][336]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998505
+[2018.12.30-21.32.19:166][337]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000977
+[2018.12.30-21.32.19:185][338]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.19:202][339]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000275
+[2018.12.30-21.32.19:220][340]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999115
+[2018.12.30-21.32.19:235][341]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001434
+[2018.12.30-21.32.19:254][342]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.19:270][343]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001343
+[2018.12.30-21.32.19:288][344]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998962
+[2018.12.30-21.32.19:305][345]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99823
+[2018.12.30-21.32.19:323][346]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000458
+[2018.12.30-21.32.19:342][347]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 174.487411
+[2018.12.30-21.32.19:358][348]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 95.98912
+[2018.12.30-21.32.19:376][349]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 31.080418
+[2018.12.30-21.32.19:392][350]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:409][351]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:426][352]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:444][353]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:463][354]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:476][355]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:495][356]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:511][357]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:531][358]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:549][359]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:564][360]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:583][361]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:598][362]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:616][363]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:632][364]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:650][365]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:667][366]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:686][367]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:702][368]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:720][369]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:735][370]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:752][371]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:769][372]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:787][373]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.19:804][374]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 35.959549
+[2018.12.30-21.32.19:822][375]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 71.889816
+[2018.12.30-21.32.19:839][376]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 107.4739
+[2018.12.30-21.32.19:856][377]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 141.148438
+[2018.12.30-21.32.19:873][378]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 177.281906
+[2018.12.30-21.32.19:890][379]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 210.948349
+[2018.12.30-21.32.19:908][380]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 247.137955
+[2018.12.30-21.32.19:924][381]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 280.773315
+[2018.12.30-21.32.19:943][382]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99942
+[2018.12.30-21.32.19:960][383]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.19:976][384]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999023
+[2018.12.30-21.32.19:992][385]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.20:010][386]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998657
+[2018.12.30-21.32.20:026][387]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999786
+[2018.12.30-21.32.20:045][388]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000793
+[2018.12.30-21.32.20:062][389]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000824
+[2018.12.30-21.32.20:078][390]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998779
+[2018.12.30-21.32.20:096][391]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.20:113][392]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000702
+[2018.12.30-21.32.20:130][393]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998505
+[2018.12.30-21.32.20:147][394]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999146
+[2018.12.30-21.32.20:164][395]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001526
+[2018.12.30-21.32.20:182][396]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998505
+[2018.12.30-21.32.20:198][397]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999695
+[2018.12.30-21.32.20:214][398]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999115
+[2018.12.30-21.32.20:233][399]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.20:249][400]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.20:265][401]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.20:281][402]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000305
+[2018.12.30-21.32.20:299][403]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.20:314][404]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999023
+[2018.12.30-21.32.20:332][405]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000946
+[2018.12.30-21.32.20:347][406]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.20:365][407]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999359
+[2018.12.30-21.32.20:381][408]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.20:402][409]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000519
+[2018.12.30-21.32.20:415][410]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000336
+[2018.12.30-21.32.20:432][411]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999756
+[2018.12.30-21.32.20:450][412]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000549
+[2018.12.30-21.32.20:465][413]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000153
+[2018.12.30-21.32.20:483][414]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.20:498][415]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999451
+[2018.12.30-21.32.20:516][416]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.20:531][417]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00058
+[2018.12.30-21.32.20:550][418]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000519
+[2018.12.30-21.32.20:565][419]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999573
+[2018.12.30-21.32.20:584][420]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.20:601][421]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000702
+[2018.12.30-21.32.20:618][422]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.20:633][423]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99942
+[2018.12.30-21.32.20:651][424]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000397
+[2018.12.30-21.32.20:668][425]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000183
+[2018.12.30-21.32.20:685][426]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.20:705][427]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000488
+[2018.12.30-21.32.20:721][428]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.20:736][429]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000275
+[2018.12.30-21.32.20:755][430]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999969
+[2018.12.30-21.32.20:771][431]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999146
+[2018.12.30-21.32.20:788][432]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999786
+[2018.12.30-21.32.20:806][433]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999969
+[2018.12.30-21.32.20:822][434]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000122
+[2018.12.30-21.32.20:840][435]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000305
+[2018.12.30-21.32.20:856][436]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.20:874][437]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.20:890][438]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000305
+[2018.12.30-21.32.20:909][439]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999969
+[2018.12.30-21.32.20:925][440]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000488
+[2018.12.30-21.32.20:943][441]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999786
+[2018.12.30-21.32.20:961][442]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000305
+[2018.12.30-21.32.20:977][443]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999268
+[2018.12.30-21.32.20:994][444]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999634
+[2018.12.30-21.32.21:012][445]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999268
+[2018.12.30-21.32.21:030][446]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000183
+[2018.12.30-21.32.21:046][447]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.21:065][448]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.21:083][449]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999481
+[2018.12.30-21.32.21:100][450]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999664
+[2018.12.30-21.32.21:115][451]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 198.393341
+[2018.12.30-21.32.21:132][452]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 105.537292
+[2018.12.30-21.32.21:149][453]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 44.837997
+[2018.12.30-21.32.21:166][454]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:183][455]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:202][456]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:217][457]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:236][458]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:251][459]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:269][460]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:286][461]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:304][462]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:323][463]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:339][464]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:356][465]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:373][466]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:391][467]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:407][468]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:425][469]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:442][470]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:459][471]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:475][472]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:494][473]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:510][474]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:528][475]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:546][476]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:562][477]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:580][478]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:596][479]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:614][480]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:630][481]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:648][482]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:665][483]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:682][484]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:698][485]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:715][486]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:731][487]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.21:750][488]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 37.091026
+[2018.12.30-21.32.21:765][489]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 69.055664
+[2018.12.30-21.32.21:784][490]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 107.022629
+[2018.12.30-21.32.21:802][491]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 144.170975
+[2018.12.30-21.32.21:817][492]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 175.171951
+[2018.12.30-21.32.21:836][493]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 213.712341
+[2018.12.30-21.32.21:851][494]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 246.365921
+[2018.12.30-21.32.21:869][495]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 281.256073
+[2018.12.30-21.32.21:885][496]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000488
+[2018.12.30-21.32.21:904][497]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000702
+[2018.12.30-21.32.21:923][498]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.21:938][499]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000244
+[2018.12.30-21.32.21:955][500]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999939
+[2018.12.30-21.32.21:973][501]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999634
+[2018.12.30-21.32.21:988][502]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.22:006][503]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.22:022][504]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999512
+[2018.12.30-21.32.22:041][505]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.22:056][506]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.22:074][507]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999451
+[2018.12.30-21.32.22:090][508]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998932
+[2018.12.30-21.32.22:108][509]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.22:126][510]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999359
+[2018.12.30-21.32.22:142][511]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998932
+[2018.12.30-21.32.22:159][512]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000519
+[2018.12.30-21.32.22:175][513]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001007
+[2018.12.30-21.32.22:193][514]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.22:211][515]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000397
+[2018.12.30-21.32.22:227][516]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99884
+[2018.12.30-21.32.22:244][517]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.22:261][518]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999298
+[2018.12.30-21.32.22:278][519]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000946
+[2018.12.30-21.32.22:295][520]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.0
+[2018.12.30-21.32.22:311][521]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00058
+[2018.12.30-21.32.22:329][522]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000946
+[2018.12.30-21.32.22:345][523]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.22:364][524]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999847
+[2018.12.30-21.32.22:381][525]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.22:397][526]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999481
+[2018.12.30-21.32.22:414][527]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999634
+[2018.12.30-21.32.22:431][528]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000519
+[2018.12.30-21.32.22:449][529]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.22:465][530]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000458
+[2018.12.30-21.32.22:483][531]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000214
+[2018.12.30-21.32.22:500][532]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999542
+[2018.12.30-21.32.22:517][533]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000519
+[2018.12.30-21.32.22:535][534]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.22:550][535]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999237
+[2018.12.30-21.32.22:569][536]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000488
+[2018.12.30-21.32.22:585][537]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999817
+[2018.12.30-21.32.22:603][538]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999268
+[2018.12.30-21.32.22:618][539]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999329
+[2018.12.30-21.32.22:635][540]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000092
+[2018.12.30-21.32.22:652][541]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.22:669][542]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999725
+[2018.12.30-21.32.22:688][543]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000732
+[2018.12.30-21.32.22:704][544]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.22:722][545]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999023
+[2018.12.30-21.32.22:740][546]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.0
+[2018.12.30-21.32.22:758][547]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998962
+[2018.12.30-21.32.22:775][548]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999756
+[2018.12.30-21.32.22:792][549]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000885
+[2018.12.30-21.32.22:810][550]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999481
+[2018.12.30-21.32.22:827][551]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000427
+[2018.12.30-21.32.22:845][552]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001434
+[2018.12.30-21.32.22:861][553]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999512
+[2018.12.30-21.32.22:879][554]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999054
+[2018.12.30-21.32.22:897][555]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.00061
+[2018.12.30-21.32.22:913][556]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.0
+[2018.12.30-21.32.22:930][557]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999176
+[2018.12.30-21.32.22:948][558]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99942
+[2018.12.30-21.32.22:966][559]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999847
+[2018.12.30-21.32.22:981][560]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000824
+[2018.12.30-21.32.22:999][561]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99881
+[2018.12.30-21.32.23:015][562]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000305
+[2018.12.30-21.32.23:033][563]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999908
+[2018.12.30-21.32.23:052][564]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999878
+[2018.12.30-21.32.23:069][565]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998657
+[2018.12.30-21.32.23:085][566]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.998718
+[2018.12.30-21.32.23:104][567]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99884
+[2018.12.30-21.32.23:121][568]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000336
+[2018.12.30-21.32.23:137][569]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.99939
+[2018.12.30-21.32.23:154][570]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.001373
+[2018.12.30-21.32.23:173][571]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999023
+[2018.12.30-21.32.23:190][572]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 299.999054
+[2018.12.30-21.32.23:208][573]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 300.000366
+[2018.12.30-21.32.23:225][574]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 187.12088
+[2018.12.30-21.32.23:241][575]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 103.557152
+[2018.12.30-21.32.23:259][576]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 37.808861
+[2018.12.30-21.32.23:275][577]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:294][578]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:310][579]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:328][580]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:344][581]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:362][582]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:378][583]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:396][584]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:412][585]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:430][586]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:446][587]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:464][588]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:482][589]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:497][590]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:515][591]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:531][592]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:549][593]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:565][594]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:582][595]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:597][596]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:615][597]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:632][598]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:649][599]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:665][600]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:682][601]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:698][602]LogBlueprintUserMessages: [Brawler_AnimBP_C_0] 0.0
+[2018.12.30-21.32.23:700][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.32.23:701][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.32.23:745][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.32.23:746][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.32.23:773][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.32.23:829][603]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.30-21.32.26:076][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.30-21.33.51:745][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.33.51:806][510]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBPE3AE365040A68F04E3A4B49C71831ED5.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.33.53:239][561]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.35.15:904][331]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.35.15:919][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.35.15:919][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.35.15:919][331]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:35:15)
+[2018.12.30-21.35.15:919][331]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.35.15:935][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015049s)
+[2018.12.30-21.35.15:935][331]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.35.15:935][331]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.12.30-21.35.15:935][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016035s)
+[2018.12.30-21.35.15:971][331]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.35.15:981][331]LogInit: FAudioDevice initialized.
+[2018.12.30-21.35.16:009][331]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.35.16:023][331]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.35.16
+[2018.12.30-21.35.16:026][331]LogWorld: Bringing up level for play took: 0.016628
+[2018.12.30-21.35.16:039][331]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.7
+[2018.12.30-21.35.16:039][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.35.18:819][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.35.18:819][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.35.18:859][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.35.18:860][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.35.18:884][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.35.18:940][490]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.30-21.35.55:245][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.30-21.36.01:071][868]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.36.01:085][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.36.01:086][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.36.01:086][868]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:36:01)
+[2018.12.30-21.36.01:086][868]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.36.01:102][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015744s)
+[2018.12.30-21.36.01:102][868]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.36.01:103][868]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.12.30-21.36.01:103][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016730s)
+[2018.12.30-21.36.01:138][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.36.01:148][868]LogInit: FAudioDevice initialized.
+[2018.12.30-21.36.01:176][868]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.36.01:192][868]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.36.01
+[2018.12.30-21.36.01:194][868]LogWorld: Bringing up level for play took: 0.018021
+[2018.12.30-21.36.01:207][868]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.132
+[2018.12.30-21.36.01:208][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.36.04:300][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.36.04:300][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.36.04:345][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.36.04:345][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.36.04:374][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.36.04:429][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.30-21.36.06:172][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.36.06:730][103]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2018.12.30-21.36.06:766][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.30-21.36.07:105][103]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.30-21.36.07:492][103]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.30-21.37.37:182][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.37.37:241][386]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBP382C8F574521F91159624BB5F63951F7.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.37.37:741][406]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.37.39:849][488]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.37.39:869][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.37.39:869][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.37.39:869][488]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:37:39)
+[2018.12.30-21.37.39:869][488]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.37.39:890][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020623s)
+[2018.12.30-21.37.39:891][488]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.37.39:891][488]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2018.12.30-21.37.39:891][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022049s)
+[2018.12.30-21.37.39:930][488]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.37.39:939][488]LogInit: FAudioDevice initialized.
+[2018.12.30-21.37.39:968][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.37.39:983][488]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.37.39
+[2018.12.30-21.37.39:987][488]LogWorld: Bringing up level for play took: 0.017855
+[2018.12.30-21.37.40:001][488]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.66
+[2018.12.30-21.37.40:001][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.38.12:586][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.38.12:587][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.38.12:632][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.38.12:633][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.38.12:662][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.38.12:725][341]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.12.30-21.38.23:733][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.30-21.38.53:776][591]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.38.53:792][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.38.53:792][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.38.53:792][591]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:38:53)
+[2018.12.30-21.38.53:793][591]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.38.53:808][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014844s)
+[2018.12.30-21.38.53:808][591]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.38.53:808][591]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.12.30-21.38.53:808][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015842s)
+[2018.12.30-21.38.53:847][591]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.38.53:857][591]LogInit: FAudioDevice initialized.
+[2018.12.30-21.38.53:887][591]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.38.53:904][591]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.38.53
+[2018.12.30-21.38.53:907][591]LogWorld: Bringing up level for play took: 0.019561
+[2018.12.30-21.38.53:920][591]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.579
+[2018.12.30-21.38.53:920][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.38.58:157][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.38.58:157][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.38.58:201][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.38.58:201][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.38.58:233][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.38.58:291][838]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.12.30-21.39.00:128][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.30-21.40.39:600][186]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.30-21.40.40:341][201]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/ThirdPersonCharacter67CB54174EDE2726AE8E9B8297A03B72.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.30-21.41.00:829][973]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.41.01:575][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.41.01:623][990]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBP6E294B82483F91114C7681B5D84B268C.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.43.18:994][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Animations/Brawler_AnimBP" FILE="../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset" SILENT=true
+[2018.12.30-21.43.19:054][991]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/Brawler_AnimBPE83193C849E44D0330FA18B97AAB294F.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/PlayerCharacter/Animations/Brawler_AnimBP.uasset'
+[2018.12.30-21.43.19:391][  5]BlueprintLog: New page: Compile Brawler_AnimBP
+[2018.12.30-21.43.19:423][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Brawler_AnimBP_C_12
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.19:423][  5]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Brawler_AnimBP_C_12
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.19:423][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Brawler_AnimBP_C_12
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.19:423][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Brawler_AnimBP_C_12
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.19:423][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.19:423][  5]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.19:424][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.19:424][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.19:424][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.19:424][  5]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.19:424][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.19:424][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.19:425][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.19:425][  5]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.19:425][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.19:425][  5]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.19:662][  6]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.19:662][  6]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.19:662][  6]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.19:662][  6]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.19:684][  7]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.19:685][  7]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.19:685][  7]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.19:685][  7]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.19:701][  8]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.19:701][  8]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.19:701][  8]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.19:701][  8]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.19:718][  9]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Brawler_AnimBP_C_11
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.26:381][270]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.26:381][270]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.26:381][270]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.26:381][270]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.26:383][270]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.26:383][270]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.26:383][270]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.26:383][270]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.29:042][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.29:042][383]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.29:042][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.29:042][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.29:044][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.29:044][383]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.29:044][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.29:044][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.29:045][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.29:045][383]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.29:045][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.29:045][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_3
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.29:046][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.29:046][383]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.29:046][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.29:047][383]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_2
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:250][435]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.30-21.43.30:294][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:294][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:294][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:294][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:296][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:296][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:297][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:297][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:298][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:298][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:298][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:298][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:299][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:299][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:299][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:299][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:485][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:485][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:485][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:485][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:486][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:486][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:487][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:487][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_2.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:487][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:487][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:487][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:487][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.30:504][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_22:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_1
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:506][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.30:506][435]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:01BC
+[2018.12.30-21.43.30:506][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0040
+[2018.12.30-21.43.30:506][435]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Engine/Transient.World_21:PersistentLevel.ThirdPersonCharacter_C_3.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:0119
+[2018.12.30-21.43.31:566][472]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/ThirdPersonCharacterDF7D1FBE4E16B649DD18D1A8EDFB141B.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.30-21.43.33:409][562]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.43.33:425][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.43.33:425][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.43.33:425][562]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:43:33)
+[2018.12.30-21.43.33:426][562]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.43.33:442][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015578s)
+[2018.12.30-21.43.33:443][562]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.43.33:443][562]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2018.12.30-21.43.33:443][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017244s)
+[2018.12.30-21.43.33:482][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.43.33:490][562]LogInit: FAudioDevice initialized.
+[2018.12.30-21.43.33:522][562]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.43.33:536][562]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.43.33
+[2018.12.30-21.43.33:539][562]LogWorld: Bringing up level for play took: 0.016618
+[2018.12.30-21.43.33:551][562]LogScript: Warning: Accessed None trying to read property Brawler
+	Brawler_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.Brawler_AnimBP_C_0
+	Function /Game/PlayerCharacter/Animations/Brawler_AnimBP.Brawler_AnimBP_C:ExecuteUbergraph_Brawler_AnimBP:018E
+[2018.12.30-21.43.33:551][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Brawler". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Set IsInAir?
+[2018.12.30-21.43.33:551][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Set IsInAir?
+[2018.12.30-21.43.33:551][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Brawler". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Branch
+[2018.12.30-21.43.33:552][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Brawler". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Set Speed
+[2018.12.30-21.43.33:553][562]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.21
+[2018.12.30-21.43.33:554][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.43.39:490][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.43.39:491][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.43.39:532][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.43.39:533][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.43.39:565][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.43.39:621][904]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.12.30-21.43.47:340][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.44.33:625][ 56]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.30-21.44.34:459][ 74]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/ThirdPersonCharacter35741EF3488512BE28E5E8AB5ED41E79.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.30-21.44.36:873][190]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-21.44.36:888][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.44.36:888][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-21.44.36:889][190]PIE: New page: PIE session: ThirdPersonExampleMap (30 Dec 2018 21:44:36)
+[2018.12.30-21.44.36:889][190]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.30-21.44.36:903][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014376s)
+[2018.12.30-21.44.36:904][190]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.44.36:904][190]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.12.30-21.44.36:904][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015318s)
+[2018.12.30-21.44.36:942][190]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.44.36:953][190]LogInit: FAudioDevice initialized.
+[2018.12.30-21.44.36:978][190]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.30-21.44.36:994][190]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.30-21.44.36
+[2018.12.30-21.44.36:997][190]LogWorld: Bringing up level for play took: 0.017488
+[2018.12.30-21.44.37:008][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Brawler". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Set IsInAir?
+[2018.12.30-21.44.37:008][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Set IsInAir?
+[2018.12.30-21.44.37:009][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Brawler". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Branch
+[2018.12.30-21.44.37:009][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Brawler". Blueprint:  Brawler_AnimBP Function:  Execute Ubergraph Brawler Anim BP Graph:  EventGraph Node:  Set Speed
+[2018.12.30-21.44.37:011][190]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.334
+[2018.12.30-21.44.37:011][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.44.44:161][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.44.44:161][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.44.44:207][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-21.44.44:208][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.30-21.44.44:241][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.44.44:302][609]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.12.30-21.45.10:193][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.30-21.45.19:754][145]LogSavePackage: Moving '../../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/ThirdPersonCharacter9C89F2E24B2FF205861061BB2D9F5BEB.tmp' to '../../../../../../GitHub/Raw-Brawler/RawBrawler/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.30-21.45.42:412][148]LogUObjectBase: Warning: Object is not registered
+[2018.12.30-21.45.43:615][148]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.203 s
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: 
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: Stack: 
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec8f271f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec8c60c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec8c7b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec2c911db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec2ca060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec027da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec089ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec085f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec52a8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec54ee933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec530281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec52d8190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fec52cb073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fee5acd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fee5ac0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fee5acf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x000007fee5abc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x0000000076f49c11 USER32.dll!UnknownFunction []
+[2018.12.30-21.45.43:615][148]LogOutputDevice: Error: [Callstack] 0x0000000076f4992a USER32.dll!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x000007fee5ad0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x000000013fba54e5 UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x000000013fbb5b3c UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x000000013fbb5bba UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x000000013fbc3dac UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x000000013fbc5aaa UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x00000000770459bd kernel32.dll!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: [Callstack] 0x000000007717a2e1 ntdll.dll!UnknownFunction []
+[2018.12.30-21.45.43:616][148]LogOutputDevice: Error: 
+[2018.12.30-21.45.43:625][148]LogStats:                SubmitErrorReport -  0.000 s
