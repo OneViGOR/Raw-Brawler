@@ -1,0 +1,1447 @@
+﻿Log file open, 12/30/18 21:38:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RawBrawler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.859036
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.220s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.037s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.30-21.38.50:462][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-21.38.50:462][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.30-21.38.50:510][  0]LogHAL: Display: Platform has ~ 8 GB [8467021824 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.30-21.38.50:512][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.30-21.38.50:512][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.30-21.38.50:542][  0]LogInit: Computer: THAI-PC
+[2018.12.30-21.38.50:542][  0]LogInit: User: Thai
+[2018.12.30-21.38.50:542][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.30-21.38.50:543][  0]LogInit: High frequency timer resolution =3.417979 MHz
+[2018.12.30-21.38.50:543][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.30-21.38.50:543][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.30-21.38.50:543][  0]LogMemory: Process Physical Memory: 103.05 MB used, 103.05 MB peak
+[2018.12.30-21.38.50:543][  0]LogMemory: Process Virtual Memory: 87.59 MB used, 87.59 MB peak
+[2018.12.30-21.38.50:543][  0]LogMemory: Physical Memory: 4868.68 MB used,  3206.11 MB free, 8074.78 MB total
+[2018.12.30-21.38.50:543][  0]LogMemory: Virtual Memory: 4636.71 MB used,  3206.11 MB free, 134217728.00 MB total
+[2018.12.30-21.38.51:079][  0]LogInit: Using OS detected language (en-US).
+[2018.12.30-21.38.51:079][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.30-21.38.51:160][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.30-21.38.51:981][  0]LogStreaming: Display: Took  0.904s to InitEngineTextLocalization.
+[2018.12.30-21.38.52:003][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.30-21.38.52:585][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.30-21.38.52:586][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.30-21.38.54:849][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.30-21.38.54:849][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.30-21.38.54:939][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.12.30-21.38.54:939][  0]LogD3D11RHI:       4043/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.30-21.38.54:978][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.12.30-21.38.54:978][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.30-21.38.54:980][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.30-21.38.54:980][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.30-21.38.54:980][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.30-21.38.56:108][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.30-21.38.56:108][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.30-21.38.56:138][  0]LogWindows: EnumDisplayDevices:
+[2018.12.30-21.38.56:138][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.12.30-21.38.56:138][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.30-21.38.56:139][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.30-21.38.56:139][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.30-21.38.56:139][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.12.30-21.38.56:139][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.12.30-21.38.56:139][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.12.30-21.38.56:140][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.30-21.38.56:140][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.12.30-21.38.56:150][  0]LogD3D11RHI:   Driver Version: 397.31 (internal:24.21.13.9731, unified:397.31)
+[2018.12.30-21.38.56:150][  0]LogD3D11RHI:      Driver Date: 4-22-2018
+[2018.12.30-21.38.56:150][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.12.30-21.38.56:273][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.30-21.38.56:672][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.30-21.38.56:789][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../GitHub/Raw-Brawler/RawBrawler/Intermediate/Shaders/WorkingDirectory/10764/).
+[2018.12.30-21.38.56:789][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thai/AppData/Local/Temp/UnrealShaderWorkingDir/2BC68C414AA1D6A191834A97877CE125/'.
+[2018.12.30-21.38.58:788][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.30-21.38.58:846][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.30-21.38.58:878][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.30-21.38.58:920][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.30-21.38.58:987][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.30-21.38.59:074][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.30-21.38.59:105][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.30-21.38.59:177][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.30-21.38.59:196][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:353][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-21.38.59:367][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.30-21.38.59:495][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-21.38.59:495][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-21.38.59:524][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-21.38.59:524][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-21.38.59:563][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.30-21.38.59:582][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.30-21.38.59:613][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.30-21.38.59:649][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.30-21.38.59:666][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.30-21.38.59:666][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.30-21.39.00:253][  0]LogXGEController: Cleaning working directory: C:/Users/Thai/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.30-21.39.00:254][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.30-21.39.00:254][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.30-21.39.00:254][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.30-21.39.02:130][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.30-21.39.02:878][  0]LogDerivedDataCache: Loaded boot cache 0.74s 71MB C:/Users/Thai/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.30-21.39.02:879][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thai/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.30-21.39.02:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/Raw-Brawler/RawBrawler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.30-21.39.02:879][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.30-21.39.02:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/Raw-Brawler/RawBrawler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.30-21.39.02:879][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.30-21.39.02:935][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.30-21.39.02:952][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.30-21.39.02:952][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.30-21.39.02:952][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.30-21.39.02:989][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.30-21.39.03:056][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.30-21.39.03:153][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.30-21.39.03:801][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2018.12.30-21.39.07:850][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-21.39.10:428][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.30-21.39.10:529][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.30-21.39.10:529][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.30-21.39.10:530][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.30-21.39.10:530][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.30-21.39.10:805][  0]LogNetVersion: RawBrawler 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2865704746)
+[2018.12.30-21.39.14:499][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.169446 seconds
+[2018.12.30-21.39.14:530][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.30-21.39.14:530][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.30-21.39.14:530][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.30-21.39.20:958][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.30-21.39.20:993][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.30-21.39.21:996][  0]SourceControl: Source control is disabled
+[2018.12.30-21.39.21:996][  0]SourceControl: Source control is disabled
+[2018.12.30-21.39.22:039][  0]SourceControl: Source control is disabled
+[2018.12.30-21.39.22:053][  0]SourceControl: Source control is disabled
+[2018.12.30-21.39.23:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.30-21.39.23:401][  0]LogOcInput: OculusInput pre-init called
+[2018.12.30-21.39.24:033][  0]LogEngine: Initializing Engine...
+[2018.12.30-21.39.24:076][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.12.30-21.39.24:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-21.39.24:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-21.39.24:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-21.39.24:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-21.39.24:949][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.30-21.39.25:259][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.30-21.39.25:368][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-21.39.25:433][  0]LogInit: FAudioDevice initialized.
+[2018.12.30-21.39.25:433][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.30-21.39.25:609][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/Thai/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.30-21.39.25:618][  0]LogInit: Texture streaming: Enabled
+[2018.12.30-21.39.25:705][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.30-21.39.25:829][  0]LogInit: Transaction tracking system initialized
+[2018.12.30-21.39.26:063][  0]BlueprintLog: New page: Editor Load
+[2018.12.30-21.39.26:999][  0]LocalizationService: Localization service is disabled
+[2018.12.30-21.39.29:899][  0]LogFileCache: Scanning file cache for directory 'F:/GitHub/Raw-Brawler/RawBrawler/Content/' took 0.02s
+[2018.12.30-21.39.29:899][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.30-21.39.29:915][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.30-21.39.29:926][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.30-21.39.29:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-21.39.29:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-21.39.29:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-21.39.29:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-21.39.33:120][  0]SourceControl: Source control is disabled
+[2018.12.30-21.39.33:135][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.30-21.39.33:138][  0]LightingResults: New page: Lighting Build
+[2018.12.30-21.39.33:276][  0]MapCheck: New page: Map Check
+[2018.12.30-21.39.33:276][  0]LightingResults: New page: Lighting Build
+[2018.12.30-21.39.37:432][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.30-21.39.37:878][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.30-21.39.37:993][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.30-21.39.38:062][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.917ms to complete.
+[2018.12.30-21.39.38:062][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.939
+[2018.12.30-21.39.39:406][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.39.39:416][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.39.39:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.39.39:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-21.39.39:537][  0]LogCollectionManager: Loaded 0 collections in 0.001825 seconds
+[2018.12.30-21.39.39:682][  0]LogFileCache: Scanning file cache for directory 'F:/GitHub/Raw-Brawler/RawBrawler/Saved/Collections/' took 0.01s
+[2018.12.30-21.39.39:682][  0]LogFileCache: Scanning file cache for directory 'F:/GitHub/Raw-Brawler/RawBrawler/Content/Developers/Thai/Collections/' took 0.01s
+[2018.12.30-21.39.39:682][  0]LogFileCache: Scanning file cache for directory 'F:/GitHub/Raw-Brawler/RawBrawler/Content/Collections/' took 0.01s
+[2018.12.30-21.39.39:682][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.30-21.39.39:705][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2572 classes and 603 folders.
+[2018.12.30-21.39.39:790][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.30-21.39.40:534][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.30-21.39.40:589][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.30-21.39.40:967][  0]LogSlate: Took 0.013911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.30-21.39.41:012][  0]LogSlate: Took 0.024514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.30-21.39.41:074][  0]LogSlate: Took 0.009743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.30-21.39.41:460][  0]LogRenderer: Reallocating scene render targets to support 1208x632 Format 9 NumSamples 1 (Frame:1).
+[2018.12.30-21.39.42:148][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.30-21.39.42:148][  0]LogLoad: (Engine Initialization) Total time: 71.76 seconds
+[2018.12.30-21.39.42:148][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.30-21.39.42:298][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.12.30-21.39.42:449][  0]LogSlate: Took 0.013349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.30-21.39.42:684][  3]LogAssetRegistry: Asset discovery search completed in 38.9104 seconds
+[2018.12.30-21.39.42:695][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.30-21.39.42:696][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000165 seconds (updated 0 objects)
+[2018.12.30-21.39.46:803][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.39.55:651][770]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.30-21.39.55:734][770]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\GitHub\Raw-Brawler\Source\Assets\VFX\WindSwirl\WindSwirl.FBX)
+[2018.12.30-21.39.55:834][770]LogFbx: Loading FBX Scene from F:\GitHub\Raw-Brawler\Source\Assets\VFX\WindSwirl\WindSwirl.FBX
+[2018.12.30-21.39.55:847][770]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.30-21.40.04:232][770]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.30-21.40.04:327][770]LogFbx: Warning: Triangulating static mesh Cylinder001
+[2018.12.30-21.40.04:393][770]LogStaticMesh: Building static mesh WindSwirl...
+[2018.12.30-21.40.04:424][770]LogStaticMesh: Built static mesh [0.03s] /Game/VFX/Wind/WindSwirl.WindSwirl
+[2018.12.30-21.40.04:516][770]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.30-21.40.04:562][770]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\GitHub\Raw-Brawler\Source\Assets\VFX\WindSwirl\WindSlam.FBX)
+[2018.12.30-21.40.04:581][770]LogFbx: Loading FBX Scene from F:\GitHub\Raw-Brawler\Source\Assets\VFX\WindSwirl\WindSlam.FBX
+[2018.12.30-21.40.04:588][770]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.30-21.40.04:589][770]LogFbx: Warning: Triangulating static mesh Tube001
+[2018.12.30-21.40.04:596][770]LogStaticMesh: Building static mesh WindSlam...
+[2018.12.30-21.40.04:597][770]LogStaticMesh: Built static mesh [0.00s] /Game/VFX/Wind/WindSlam.WindSlam
+[2018.12.30-21.40.04:610][770]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.30-21.40.05:980][872]LogSlate: Window 'Message Log' being destroyed
+[2018.12.30-21.40.05:983][872]LogSlate: Window 'Message Log' being destroyed
+[2018.12.30-21.40.07:232][972]LogActorFactory: Actor Factory created WindSlam
+[2018.12.30-21.40.07:246][972]LogActorFactory: Actor Factory created WindSwirl
+[2018.12.30-21.40.07:870][  8]LogActorFactory: Actor Factory created WindSlam
+[2018.12.30-21.40.08:093][  8]LogActorFactory: Actor Factory created WindSwirl
+[2018.12.30-21.40.09:834][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WindSlam)
+[2018.12.30-21.40.12:060][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.30-21.40.13:734][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WindSwirl)
+[2018.12.30-21.40.16:683][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.41.26:429][688]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GitHub\Raw-Brawler\Source\Assets\VFX\WindSwirl\WindSwirl_Texture.png)
+[2018.12.30-21.41.26:582][688]LogTexture: Display: Building textures: WindSwirl_Texture (AutoDXT, 2048X2048)
+[2018.12.30-21.41.27:309][688]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\GitHub\Raw-Brawler\Source\Assets\VFX\WindSwirl\WindSlam_Texture.png)
+[2018.12.30-21.41.27:432][688]LogTexture: Display: Building textures: WindSlam_Texture (AutoDXT, 2048X2048)
+[2018.12.30-21.41.32:948][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.41.35:348][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.41.35:678][ 56]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Wind/WindSwirl_Mat.WindSwirl_Mat
+[2018.12.30-21.41.35:714][ 56]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.36:596][ 56]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.36:624][ 56]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.41.36:624][ 56]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.41.36:624][ 56]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.41.36:700][ 56]LogSlate: Took 0.008863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.30-21.41.40:240][192]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.40:284][192]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.41.40:329][192]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.41.44:390][404]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.45:260][455]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.41.45:359][461]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.41.46:604][539]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.46:623][539]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.46:669][539]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.41.46:669][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.41.46:678][539]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.49:637][698]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.41.49:943][715]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.49:992][715]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.41.49:992][715]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.41.54:339][951]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.41.54:827][977]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.54:852][977]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.41.54:892][977]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.55:277][977]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.41.55:482][977]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.41.55:487][977]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.41.55:914][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.41.55:996][977]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.41.56:012][977]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.41.56:315][977]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.41.56:346][977]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.41.56:378][977]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.41.56:648][977]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.41.56:650][977]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.41.56:886][993]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.41.57:441][ 30]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.41.57:463][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.41.59:327][134]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.41.59:462][141]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.42.05:253][452]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.42.05:295][452]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.42.05:342][452]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.42.05:349][452]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.42.11:158][759]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.42.16:466][ 60]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.42.16:539][ 64]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.42.19:194][212]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.42.23:986][480]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.42.32:039][916]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.42.32:096][919]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.42.32:361][919]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.42.32:532][919]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.42.32:581][919]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.42.32:682][919]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.42.32:845][919]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.42.32:943][919]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.42.32:981][919]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.42.33:080][919]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.42.33:216][919]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.42.33:261][919]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.42.33:411][919]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.42.33:846][919]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.42.34:015][919]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.42.34:044][919]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.42.34:531][919]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.42.34:712][919]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.42.42:919][362]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.30-21.42.46:579][563]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.42.46:610][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.42.48:495][628]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.42.48:495][628]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.42.48:495][628]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.42.52:079][817]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.42.55:729][  9]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.42.55:783][  9]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.42.56:296][  9]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.42.57:000][  9]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.42.57:132][  9]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.42.57:347][  9]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.42.57:624][  9]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.42.57:783][  9]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.42.57:898][  9]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.42.58:096][  9]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.42.58:162][  9]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.42.58:262][  9]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.42.58:496][  9]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.42.58:515][  9]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.42.58:564][  9]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.42.58:830][  9]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.42.58:843][  9]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.42.58:893][  9]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.42.59:380][  9]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.42.59:662][  9]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.42.59:695][  9]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.43.00:092][  9]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.43.00:149][  9]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.43.00:464][  9]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.30-21.43.00:898][  9]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.30-21.43.00:947][  9]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.30-21.43.01:061][  9]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.30-21.43.01:610][  9]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.30-21.43.06:186][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.43.07:275][261]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.12.30-21.43.07:275][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.12.30-21.43.07:275][261]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.30-21.43.07:275][261]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.30-21.43.07:275][261]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.43.07:275][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.43.22:791][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.43.31:071][620]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.31:124][620]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.30-21.43.31:124][620]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.30-21.43.31:124][620]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.30-21.43.31:126][620]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.38:486][966]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.30-21.43.38:526][967]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.30-21.43.38:694][970]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.30-21.43.38:956][973]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.30-21.43.39:011][974]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.30-21.43.39:313][979]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.30-21.43.39:313][979]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.30-21.43.39:578][983]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.30-21.43.39:677][985]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.30-21.43.39:793][987]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.43.39:991][989]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.43.40:079][991]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.43.40:212][993]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.43.40:361][995]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.43.40:480][997]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.43.40:697][  1]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.43.40:862][  3]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.43.40:862][  3]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.43.41:264][  8]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.43.41:331][  9]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.43.41:757][ 15]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.43.41:811][ 16]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.43.41:863][ 17]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.43.42:197][ 23]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.43.42:255][ 24]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.43.42:330][ 25]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.43.42:525][ 28]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.43.42:678][ 30]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.43.42:795][ 31]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.43.43:304][ 38]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.43.43:529][ 41]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.43.43:613][ 42]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.43.44:191][ 49]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.43.44:244][ 50]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.43.44:498][ 53]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.43.45:047][ 59]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.43.45:214][ 61]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.43.45:214][ 61]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.43.46:044][ 76]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.30-21.43.46:044][ 76]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.30-21.43.46:512][ 82]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.30-21.43.46:811][ 87]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.30-21.43.47:130][ 91]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.30-21.43.47:804][ 93]MaterialEditorStats: Base pass shader: 111 instructions
+[2018.12.30-21.43.47:804][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2018.12.30-21.43.47:804][ 93]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.43.47:805][ 93]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.30-21.43.47:805][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.43.47:805][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.43.51:083][237]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.51:122][237]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.30-21.43.51:122][237]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.30-21.43.51:122][237]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.30-21.43.51:136][237]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.51:143][237]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.30-21.43.52:569][315]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.52:624][315]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.52:629][315]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.30-21.43.54:013][386]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.54:067][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.54:075][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.30-21.43.55:134][442]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.43.55:134][442]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.30-21.43.55:448][462]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.30-21.43.55:702][476]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.55:774][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.55:780][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.30-21.43.55:786][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.43.55:797][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.43.55:814][476]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.30-21.43.55:841][476]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.55:907][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.55:913][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.43.55:977][477]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.43.55:999][477]LogSlate: Took 0.014323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.30-21.43.57:928][586]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.30-21.43.58:277][606]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.58:345][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.58:351][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.43.58:369][606]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.43.58:428][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.43.58:436][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.43.58:865][623]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.44.02:364][808]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.30-21.44.02:368][808]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.02:419][808]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.02:424][808]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.04:396][917]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.44.04:496][923]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.04:526][923]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.04:531][923]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.04:549][923]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.44.06:017][  3]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.06:050][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.06:057][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.07:247][ 66]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.44.07:272][ 67]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.07:304][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.07:311][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.08:296][123]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.44.08:605][142]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.30-21.44.08:662][145]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.08:695][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.08:701][145]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.12:314][341]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.12:357][341]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.30-21.44.12:357][341]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.12:363][341]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.14:044][431]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.14:072][431]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.14:077][431]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.14:103][431]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.44.19:309][692]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.19:388][693]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.30-21.44.19:915][725]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.30-21.44.19:919][725]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.30-21.44.20:088][735]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.20:111][735]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.20:154][735]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.20:160][735]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.20:166][735]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.21:477][794]LogMaterialEditor: Saving and Compiling material WindSwirl_Mat
+[2018.12.30-21.44.22:122][794]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.44.22:158][794]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.30-21.44.22:158][794]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.30-21.44.22:158][794]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.22:227][794]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.22:247][794]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.22:308][794]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.44.24:921][794]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.44.24:922][794]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.44.24:923][794]TextureStreamingBuild: Display: Compiling optional shaders took 2.632 seconds.
+[2018.12.30-21.44.27:425][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSwirl_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset" SILENT=true
+[2018.12.30-21.44.27:487][794]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSwirl_Mat73AC19994C5B634EF47644BF45A55D7C.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset'
+[2018.12.30-21.44.27:511][794]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.44.27:511][794]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.44.27:511][794]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.44.27:511][794]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.44.27:511][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.44.30:960][964]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.30:977][964]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.44.30:977][964]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.44.30:977][964]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.44.30:977][964]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.30:983][964]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.31:018][964]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.31:058][965]LogMaterialEditor: Saving and Compiling material WindSwirl_Mat
+[2018.12.30-21.44.31:695][965]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.31:757][965]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.31:772][965]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.32:076][965]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.30-21.44.32:076][965]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.44.32:081][965]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.44.32:082][965]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.44.35:299][965]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.44.35:302][965]TextureStreamingBuild: Display: Compiling optional shaders took 3.225 seconds.
+[2018.12.30-21.44.38:079][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSwirl_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset" SILENT=true
+[2018.12.30-21.44.38:118][965]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSwirl_MatEE37548943BE905CC02FF98EC619D794.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset'
+[2018.12.30-21.44.49:443][559]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.49:448][559]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.49:468][559]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.30-21.44.49:468][559]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.30-21.44.49:468][559]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.30-21.44.49:485][559]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.49:529][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.49:537][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.49:571][560]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.49:590][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.49:596][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.49:629][560]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.49:658][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.49:663][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.49:697][560]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.49:725][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.49:730][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.49:764][560]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.50:469][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.50:476][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.50:506][597]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.50:522][597]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.50:541][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.50:546][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.50:587][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.50:594][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.50:625][597]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.51:246][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.51:256][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.51:288][627]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.51:307][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.51:313][627]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.51:350][627]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.51:364][627]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.30-21.44.53:801][754]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.53:823][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.44.53:829][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.44.53:862][754]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.44.56:647][899]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.44.59:746][ 67]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.45.00:233][ 93]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.45.16:061][939]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.45.16:577][966]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.45.19:754][137]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.45.30:344][704]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.45.34:155][910]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.45.36:749][ 43]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.45.38:640][135]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.45.44:257][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.45.44:384][430]LogMaterialEditor: Applying material WindSwirl_Mat
+[2018.12.30-21.45.45:037][430]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.45.45:037][430]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.45.45:076][430]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.45.45:142][430]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.45.45:164][430]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.45.46:292][430]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.45.46:297][430]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSwirl_Mat, compiling. 
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.45.48:195][430]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.45.48:197][430]TextureStreamingBuild: Display: Compiling optional shaders took 1.905 seconds.
+[2018.12.30-21.46.07:696][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.46.14:365][790]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.14:374][790]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.46.14:408][790]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.46.14:413][790]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.46.16:666][915]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.16:691][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.46.16:697][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.46.21:946][174]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.21:993][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.46.21:999][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.46.22:032][174]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.22:725][208]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.22:756][208]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.46.22:762][208]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.46.22:797][208]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.24:948][315]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.26:243][377]LogMaterialEditor: Saving and Compiling material WindSwirl_Mat
+[2018.12.30-21.46.26:961][377]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.27:026][377]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.27:039][377]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.27:078][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSwirl_Mat, compiling. 
+[2018.12.30-21.46.31:140][377]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.30-21.46.31:140][377]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.46.31:141][377]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.46.31:142][377]TextureStreamingBuild: Display: Compiling optional shaders took 4.071 seconds.
+[2018.12.30-21.46.34:007][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSwirl_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset" SILENT=true
+[2018.12.30-21.46.34:029][377]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSwirl_Mat76FBA545445788BAFA9F89BA976BD1CD.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset'
+[2018.12.30-21.46.34:046][377]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.46.34:046][377]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.46.34:046][377]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.46.34:046][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.46.34:046][377]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.47.11:241][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.47.13:957][539]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.47.13:973][539]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.47.13:973][539]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.47.13:973][539]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.47.13:973][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.47.13:978][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.47.14:010][539]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.47.24:179][ 57]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.47.25:556][123]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.47.25:812][136]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.47.49:436][398]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.47.49:542][406]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.47.49:558][407]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.47.49:978][407]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.47.50:026][407]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.47.50:078][407]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.47.50:328][407]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.47.50:407][407]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.47.50:441][407]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.47.50:674][407]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.47.50:806][407]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.47.50:826][407]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.30-21.47.50:946][407]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.30-21.47.51:109][407]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.30-21.47.51:473][407]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.30-21.47.51:507][407]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.30-21.47.55:041][563]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.47.55:041][563]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.47.55:041][563]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.47.55:041][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.47.55:041][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.47.56:809][654]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.47.56:836][655]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.47.56:836][655]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.47.56:836][655]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.48.01:363][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.48.03:056][982]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.48.03:075][982]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.48.03:083][982]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.48.03:118][982]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.48.03:848][ 19]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.48.05:764][121]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.48.05:783][121]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.48.05:790][121]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.48.05:816][121]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.48.05:819][121]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.48.06:494][156]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.48.10:841][382]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.48.29:434][333]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.48.36:442][689]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.48.48:342][303]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.48.48:689][305]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.48.48:693][305]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.48.48:727][305]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.48.49:060][305]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.48.49:091][305]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.48.49:222][305]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.48.49:487][305]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.48.49:527][305]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.48.49:590][305]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.48.49:791][305]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.30-21.48.49:939][305]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.30-21.48.49:942][305]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.30-21.49.01:682][914]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.03:699][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.49.03:821][ 24]LogMaterialEditor: Saving and Compiling material WindSwirl_Mat
+[2018.12.30-21.49.04:469][ 24]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.49.04:469][ 24]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.49.04:513][ 24]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.04:560][ 24]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.04:591][ 24]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.04:636][ 24]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.49.07:621][ 24]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.49.07:622][ 24]TextureStreamingBuild: Display: Compiling optional shaders took 2.992 seconds.
+[2018.12.30-21.49.10:355][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSwirl_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset" SILENT=true
+[2018.12.30-21.49.10:372][ 24]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSwirl_MatACFE23734936376A36BB9E81DAAF5CF1.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset'
+[2018.12.30-21.49.10:396][ 24]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.49.10:396][ 24]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.49.10:396][ 24]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.49.10:396][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.49.10:396][ 24]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.49.37:858][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.49.40:004][571]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.40:021][571]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.49.40:021][571]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.49.40:021][571]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.49.40:021][571]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.49.40:026][571]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.49.40:059][571]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.51:476][167]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.51:578][172]LogMaterialEditor: Saving and Compiling material WindSwirl_Mat
+[2018.12.30-21.49.52:217][172]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.49.52:218][172]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.49.52:261][172]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.52:321][172]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.52:346][172]LogMaterial: Display: Missing cached shader map for material WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.52:389][172]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSwirl_Mat, compiling. 
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.49.55:550][172]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.49.55:552][172]TextureStreamingBuild: Display: Compiling optional shaders took 3.168 seconds.
+[2018.12.30-21.49.58:333][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSwirl_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset" SILENT=true
+[2018.12.30-21.49.58:358][172]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSwirl_MatC3221658476408A531682094F25A53F5.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset'
+[2018.12.30-21.49.58:374][172]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.49.58:374][172]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.49.58:374][172]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.49.58:374][172]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.49.58:374][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.50.09:526][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.50.09:606][791]LogMaterialEditor: Saving and Compiling material WindSwirl_Mat
+[2018.12.30-21.50.09:623][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSwirl_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset" SILENT=true
+[2018.12.30-21.50.09:634][791]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSwirl_Mat1731F9D640D6B8761102C4AD0C497D7C.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSwirl_Mat.uasset'
+[2018.12.30-21.50.10:291][825]LogSlate: Window 'WindSwirl_Mat' being destroyed
+[2018.12.30-21.50.16:891][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WindSlam)
+[2018.12.30-21.50.18:514][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.50.33:706][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.50.33:869][695]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Wind/WindSlam_Mat.WindSlam_Mat
+[2018.12.30-21.50.33:878][695]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.50.34:020][695]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.50.34:052][695]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.50.34:052][695]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.50.34:052][695]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.50.36:138][776]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.50.36:183][776]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.50.36:217][776]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.50.36:217][776]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.50.37:368][831]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.50.37:871][858]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.50.41:175][ 27]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.50.41:175][ 27]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.50.41:938][ 64]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Wind/WindSwirl_Mat.WindSwirl_Mat
+[2018.12.30-21.50.41:941][ 64]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.12.30-21.50.42:073][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.50.42:081][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.50.42:090][ 64]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.12.30-21.50.42:139][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.50.42:148][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.50.42:960][102]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.30-21.50.43:608][134]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.30-21.50.45:687][243]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.30-21.50.48:175][379]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.50.48:256][384]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.50.48:418][393]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.50.49:875][479]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.50.51:275][515]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.50.51:445][515]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.50.51:598][515]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.50.52:095][515]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.50.52:184][515]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.50.52:389][515]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.50.52:918][515]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.50.53:036][515]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.50.53:138][515]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.50.53:377][515]LogSlate: Window 'Message' being destroyed
+[2018.12.30-21.50.54:559][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_2
+[2018.12.30-21.50.54:559][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.WindSlam_Mat:MaterialGraph_0.MaterialGraphNode_2
+[2018.12.30-21.50.54:559][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_2.MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.12.30-21.50.54:559][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_4
+[2018.12.30-21.50.54:559][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.WindSlam_Mat:MaterialGraph_0.MaterialGraphNode_4
+[2018.12.30-21.50.54:559][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_4.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.12.30-21.50.54:560][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_0 or MaterialGraphNode /Engine/Transient.WindSlam_Mat:MaterialGraph_0.MaterialGraphNode_0
+[2018.12.30-21.50.54:560][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_0 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_0
+[2018.12.30-21.50.54:560][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_0.MaterialExpressionMultiply_0"')'
+[2018.12.30-21.50.54:561][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_5
+[2018.12.30-21.50.54:561][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.WindSlam_Mat:MaterialGraph_0.MaterialGraphNode_5
+[2018.12.30-21.50.54:561][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_5.MaterialExpressionScalarParameter_0"')'
+[2018.12.30-21.50.54:562][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2018.12.30-21.50.54:562][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.WindSlam_Mat:MaterialGraph_0.MaterialGraphNode_3
+[2018.12.30-21.50.54:562][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_3.MaterialExpressionPanner_0"')'
+[2018.12.30-21.50.54:562][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_6
+[2018.12.30-21.50.54:563][567]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.WindSwirl_Mat:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.WindSlam_Mat:MaterialGraph_0.MaterialGraphNode_6
+[2018.12.30-21.50.54:563][567]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_6.MaterialExpressionTextureCoordinate_0"')'
+[2018.12.30-21.50.54:576][567]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.50.54:626][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.50.54:634][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.12.30-21.50.54:639][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.50.55:372][604]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.30-21.50.56:121][650]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.30-21.50.57:547][721]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.50.57:582][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.50.57:588][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.12.30-21.50.57:595][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.50.57:613][721]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.30-21.50.58:142][749]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.30-21.50.58:374][762]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.50.58:393][762]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.50.58:400][762]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.12.30-21.50.58:405][762]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.50.59:430][810]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.30-21.50.59:568][817]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.30-21.51.00:186][847]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.00:236][847]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.51.00:241][847]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.51.01:962][936]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.51.02:095][943]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.51.02:110][944]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.51.02:186][948]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.02:206][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.51.02:213][948]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.51.03:898][ 38]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.51.03:987][ 43]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.51.04:370][ 65]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.51.05:022][101]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.51.07:658][223]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.51.08:466][264]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.51.13:729][542]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.51.17:303][729]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.51.19:758][849]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.51.21:858][961]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.51.24:412][ 96]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.51.31:355][479]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.51.31:454][485]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.51.31:673][499]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.51.32:507][549]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.51.32:874][570]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.51.32:902][571]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.51.33:674][618]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.33:697][618]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.51.33:703][618]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.51.35:796][731]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.51.35:815][732]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.35:841][732]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.35:893][732]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.51.35:900][732]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.51.35:906][732]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.36:858][782]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.38:367][868]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.38:387][868]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.38:431][868]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.51.38:437][868]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.51.38:445][868]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.38:940][893]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.51.39:207][907]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.39:644][930]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.51.40:115][956]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.51.40:589][981]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.42:679][105]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.51.42:695][106]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.51.43:784][172]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.51.44:041][187]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.51.44:969][243]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.44:991][243]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.45:016][243]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.51.45:032][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.51.45:037][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.51.45:046][243]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.47:400][360]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.51.48:521][419]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.51.51:186][557]LogMaterialEditor: Saving and Compiling material WindSlam_Mat
+[2018.12.30-21.51.51:814][557]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.51.51:846][557]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.51:888][557]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.51:902][557]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.51.51:987][557]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSlam_Mat, compiling. 
+[2018.12.30-21.51.53:510][557]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.51.53:511][557]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.51.53:513][557]TextureStreamingBuild: Display: Compiling optional shaders took 1.534 seconds.
+[2018.12.30-21.51.56:026][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSlam_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset" SILENT=true
+[2018.12.30-21.51.56:056][557]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSlam_Mat79A62F18498DA810C495F182C79817BD.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset'
+[2018.12.30-21.51.56:072][557]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.12.30-21.51.56:072][557]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.30-21.51.56:072][557]MaterialEditorStats: Texture samplers: 1/16
+[2018.12.30-21.51.56:072][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.51.56:072][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.51.58:548][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.52.12:150][275]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.52.12:174][276]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.52.12:175][276]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.52.12:175][276]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.52.15:979][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.52.16:953][528]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.52.17:070][535]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.30-21.52.17:260][546]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.52.17:280][546]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.52.17:286][546]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.52.17:312][546]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.52.22:744][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.52.32:460][331]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.52.32:498][333]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.52.33:021][360]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.52.39:116][665]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.52.48:704][157]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.52.48:704][157]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.52.49:311][198]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.52.49:924][238]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.52.49:937][239]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.52.50:133][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.52.50:255][260]LogMaterialEditor: Saving and Compiling material WindSlam_Mat
+[2018.12.30-21.52.50:742][260]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.52.50:742][260]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.52.50:742][260]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.52.50:787][260]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.52.50:830][260]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.52.50:844][260]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.52.50:879][260]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSlam_Mat, compiling. 
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.52.55:306][260]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.52.55:310][260]TextureStreamingBuild: Display: Compiling optional shaders took 4.437 seconds.
+[2018.12.30-21.52.58:475][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSlam_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset" SILENT=true
+[2018.12.30-21.52.58:516][260]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSlam_Mat14C5089B4FCAB942B22531B8D6B93040.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset'
+[2018.12.30-21.52.58:533][260]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.52.58:533][260]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.52.58:533][260]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.52.58:533][260]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.52.58:533][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.53.05:751][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.53.08:326][730]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.08:343][730]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.53.08:343][730]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.53.08:343][730]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.53.08:348][730]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.53.08:354][730]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.53.08:383][730]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.12:669][952]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.15:150][ 80]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.15:171][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.53.15:180][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.53.15:208][ 80]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.53.15:208][ 80]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.53.15:213][ 80]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.15:465][ 92]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.53.15:857][114]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.15:880][114]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.53.15:886][114]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.53.15:914][114]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.17:406][194]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.53.18:054][229]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.53.22:018][434]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.53.28:504][767]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.53.28:522][768]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.53.28:921][771]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.53.28:926][771]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.53.29:066][771]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.53.29:271][771]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.30-21.53.29:352][771]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.30-21.53.29:472][771]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.30-21.53.29:656][771]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.30-21.53.29:758][771]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.30-21.53.29:814][771]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.53.30:004][771]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.30-21.53.30:020][771]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.30-21.53.30:201][771]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.30-21.53.30:550][771]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.30-21.53.30:733][771]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.30-21.53.33:375][890]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.53.33:376][890]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.53.33:376][890]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.53.33:376][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.53.33:376][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.53.34:643][953]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.34:673][954]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.53.34:673][954]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.53.34:673][954]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.53.37:750][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.53.37:913][122]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_0, compiling. 
+[2018.12.30-21.53.39:697][212]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.53.40:804][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.12.30-21.53.40:865][274]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.53.45:263][504]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.53.46:271][557]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.53.46:711][580]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.30-21.53.53:976][951]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.53:999][951]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.53.54:004][951]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.53.54:021][951]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.53.54:034][951]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.53.54:037][951]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.55:385][ 16]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.55:460][ 20]LogMaterialEditor: Saving and Compiling material WindSlam_Mat
+[2018.12.30-21.53.56:114][ 20]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.53.56:159][ 20]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.56:214][ 20]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.56:235][ 20]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.53.56:452][ 20]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.53.56:459][ 20]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSlam_Mat, compiling. 
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.53.59:999][ 20]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.54.00:001][ 20]TextureStreamingBuild: Display: Compiling optional shaders took 3.548 seconds.
+[2018.12.30-21.54.02:811][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSlam_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset" SILENT=true
+[2018.12.30-21.54.02:829][ 20]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSlam_Mat7AEDD0B24DB9E45D63B934BBB9F5C9AB.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset'
+[2018.12.30-21.54.02:844][ 20]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.54.02:844][ 20]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.54.02:845][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.54.02:845][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.54.02:845][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.54.18:154][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.54.20:072][944]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.20:087][944]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.54.20:095][944]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.54.20:095][944]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.54.20:095][944]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.54.20:095][944]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.54.20:126][944]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.22:152][ 54]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.22:234][ 58]LogMaterialEditor: Saving and Compiling material WindSlam_Mat
+[2018.12.30-21.54.22:848][ 58]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.54.22:901][ 58]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.22:984][ 58]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.23:040][ 58]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.23:135][ 58]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.54.23:141][ 58]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSlam_Mat, compiling. 
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.54.26:458][ 58]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.54.26:459][ 58]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.54.26:462][ 58]TextureStreamingBuild: Display: Compiling optional shaders took 3.327 seconds.
+[2018.12.30-21.54.29:276][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSlam_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset" SILENT=true
+[2018.12.30-21.54.29:301][ 58]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSlam_Mat3AF78D224714942245DE678F5EA41A78.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset'
+[2018.12.30-21.54.29:318][ 58]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.54.29:318][ 58]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.54.29:318][ 58]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.54.29:318][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.54.29:318][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.54.35:160][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.54.39:220][585]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.39:233][585]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.54.39:233][585]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.30-21.54.39:233][585]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.30-21.54.39:235][585]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.54.39:241][585]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.54.39:272][585]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.54.47:284][ 22]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.54.48:565][ 94]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.54.48:824][108]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.54.58:892][653]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.54.59:219][671]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.02:430][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.55.02:564][842]LogMaterialEditor: Applying material WindSlam_Mat
+[2018.12.30-21.55.03:209][842]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.55.03:250][842]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.03:273][842]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.55.03:315][842]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.03:337][842]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.03:385][842]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSlam_Mat, compiling. 
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.55.06:033][842]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.55.06:034][842]TextureStreamingBuild: Display: Compiling optional shaders took 2.654 seconds.
+[2018.12.30-21.55.16:179][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-21.55.20:804][609]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.20:812][609]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.30-21.55.20:824][609]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.30-21.55.20:833][609]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.30-21.55.20:864][609]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.21:794][656]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.21:888][661]LogMaterialEditor: Saving and Compiling material WindSlam_Mat
+[2018.12.30-21.55.22:515][661]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.55.22:563][661]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.22:615][661]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.22:637][661]LogMaterial: Display: Missing cached shader map for material WindSlam_Mat, compiling. 
+[2018.12.30-21.55.22:677][661]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WindSlam_Mat, compiling. 
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.30-21.55.27:906][661]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.30-21.55.27:907][661]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.30-21.55.27:907][661]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.30-21.55.27:907][661]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.30-21.55.27:907][661]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.30-21.55.27:907][661]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.30-21.55.27:907][661]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.30-21.55.27:909][661]TextureStreamingBuild: Display: Compiling optional shaders took 5.238 seconds.
+[2018.12.30-21.55.30:217][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Wind/WindSlam_Mat" FILE="../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset" SILENT=true
+[2018.12.30-21.55.30:242][661]LogSavePackage: Moving '../../../../../GitHub/Raw-Brawler/RawBrawler/Saved/WindSlam_MatFB81BA7D40092F866C486D9BE1759812.tmp' to '../../../../../GitHub/Raw-Brawler/RawBrawler/Content/VFX/Wind/WindSlam_Mat.uasset'
+[2018.12.30-21.55.30:255][661]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2018.12.30-21.55.30:256][661]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.30-21.55.30:256][661]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.30-21.55.30:256][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.30-21.55.30:256][661]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.30-21.55.31:680][739]LogSlate: Window 'WindSlam_Mat' being destroyed
+[2018.12.30-21.55.37:518][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WindSlam)
+[2018.12.30-21.55.46:461][859]Cmd: TRANSACTION UNDO
+[2018.12.30-21.55.46:461][859]LogEditorTransaction: Undo Scale Actors
+[2018.12.30-21.55.46:813][859]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.317 s
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: 
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: 
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: Stack: 
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe18b71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe15f0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe160b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbbb81f1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd45d4c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd46001fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd45e6535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd4652dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd4699b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd462c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd45e599c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd45df5d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbd4ebda43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffba07077ce UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffba0707bee UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe0dc24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe0e0437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffba07171a2 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffba0707679 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe0e060e9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe0df9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe5bbce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe5bb0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe5bbf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe5bac209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffc205e6d41 USER32.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffc205e6713 USER32.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffbe5bc0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ff7342554e5 UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ff734265b3c UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ff734265bba UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ff734273dac UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ff734275aaa UE4Editor.exe!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffc1fd23034 KERNEL32.DLL!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffc228f3691 ntdll.dll!UnknownFunction []
+[2018.12.30-21.55.46:813][859]LogOutputDevice: Error: 
+[2018.12.30-21.55.46:823][859]LogStats:                SubmitErrorReport -  0.006 s
