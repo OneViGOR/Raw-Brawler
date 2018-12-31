@@ -1,7 +1,22 @@
 ryu/ken*
 Goku*
 Punisher*
+<<<<<<< HEAD
 Skeleton*
+=======
+<<<<<<< HEAD
+Skeleton*
+Jiren*
+Saitama*
+boxer*
+Luchador*
+
+tron
+samus
+vegeta
+=======
+Skeleton
+>>>>>>> James
 Jiren*
 Saitama*
 boxer*
@@ -12,15 +27,36 @@ vegeta
 tron
 samus
 vegeta
+<<<<<<< HEAD
+=======
+Saitama*
+>>>>>>> James
+>>>>>>> James
 Superman
 Spiderman
 IronMan
 Kenshiro northstar
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+Luchador
+>>>>>>> James
+buisnesman
+>>>>>>> James
 crash test dummy
 bruce lee
 Kamina gurrenlagan
 sub zero
 Jotaro or Dio
 mario
+<<<<<<< HEAD
+=======
+sonic
+<<<<<<< HEAD
+=======
+boxer
+>>>>>>> James
 santa
+>>>>>>> James
 rock lee
