@@ -1,0 +1,42 @@
+ryu/ken*
+Goku*
+Punisher*
+<<<<<<< HEAD
+Skeleton*
+Jiren*
+Saitama*
+boxer*
+Luchador*
+
+tron
+samus
+vegeta
+=======
+Skeleton
+Jiren*
+samus
+vegeta
+Saitama*
+>>>>>>> James
+Superman
+Spiderman
+IronMan
+Kenshiro northstar
+<<<<<<< HEAD
+=======
+Luchador
+>>>>>>> James
+buisnesman
+crash test dummy
+bruce lee
+Kamina gurrenlagan
+sub zero
+Jotaro or Dio
+mario
+sonic
+<<<<<<< HEAD
+=======
+boxer
+santa
+>>>>>>> James
+rock lee
