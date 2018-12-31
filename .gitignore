@@ -1,4 +1,5 @@
-RawBrawler/Binaries
-RawBrawler/DerivedDataCache
-RawBrawler/Intermediate
+RawBrawler/Binaries*
+RawBrawler/DerivedDataCache*
+RawBrawler/Intermediate*
 RawBrawler/Saved
+*
