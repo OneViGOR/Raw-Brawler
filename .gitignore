@@ -1,19 +1,4 @@
-<<<<<<< HEAD
-RawBrawler/Binaries
-RawBrawler/DerivedDataCache
-RawBrawler/Intermediate
-RawBrawler/Saved=======
 RawBrawler/Binaries*
 RawBrawler/DerivedDataCache*
 RawBrawler/Intermediate*
-RawBrawler/Saved
-*
->>>>>>> James
-RawBrawler/Saved/Backup/Brawler_Anims_WalkLeft1_2018-12-30-23-36-21.uasset
-RawBrawler/Saved/Backup/ThirdPersonExampleMap_2018-12-29-21-29-43.umap~HEAD
-RawBrawler/Saved/Backup/ThirdPersonExampleMap_2018-12-30-23-55-58.umap
-RawBrawler/Saved/Backup/ThirdPersonExampleMap_2018-12-31-00-05-32.umap
-RawBrawler/Saved/Backup/ThirdPersonExampleMap_2018-12-31-01-34-09.umap
-RawBrawler/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-RawBrawler/Saved/Logs/RawBrawler.log
-Source/Assets/CharacterModel/Skins/Skins.txt
+RawBrawler/Saved*
