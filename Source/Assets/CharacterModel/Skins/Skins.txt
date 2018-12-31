@@ -1,16 +1,19 @@
 ryu/ken*
 Goku*
 Punisher*
-Skeleton
+Skeleton*
 Jiren*
+Saitama*
+boxer*
+Luchador*
+
+tron
 samus
 vegeta
-Saitama*
 Superman
 Spiderman
 IronMan
 Kenshiro northstar
-Luchador
 buisnesman
 crash test dummy
 bruce lee
@@ -19,6 +22,4 @@ sub zero
 Jotaro or Dio
 mario
 sonic
-boxer
-santa
 rock lee
