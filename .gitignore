@@ -2,3 +2,5 @@ RawBrawler/Binaries*
 RawBrawler/DerivedDataCache*
 RawBrawler/Intermediate*
 RawBrawler/Saved*
+RawBrawler/Saved/Logs/RawBrawler.log
+RawBrawler/Saved/Config/Windows/EditorPerProjectUserSettings.ini
